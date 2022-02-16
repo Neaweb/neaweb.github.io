@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
+#nav-container {
+    height: 70px; 
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    flex-direction: row;
+}
+a{
+    text-decoration: none;  
+    color: rgb(15, 15, 15);
+    font-size: larger;
+    align-items: flex-end;
+  }
+ 
+h1{
+    color: rgb(124, 93, 104);
+    text-shadow: 3px 3px 35px rgb(46, 44, 44);
+    text-decoration: none;
+    font-size: 37px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+body{
+    margin: 0;
+    background-color: rgba(247, 204, 234, 0.733);
+    font-family: Nanum Myeongjo;
+}
+
+    body{
+        font-size: 15px;
+        text-align: center;
+    }
+    
+    
+    h2{
+        font-size: xx-large;
+        text-align: center;
+        text-shadow:5px 5px 40px rgb(0, 0, 0) 
+    }
+    img{
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+        height: 43vh
+    }
+    img{
+        border: 2px solid;
+        border-radius: 10%;
+        border-style: hidden;
+    }
+    hr{
+        margin-top: 0%;
+        border-color: 124, 93, 104
+    }
+    button{
+        height: 25px;
+        width: 12%;
+        font-style: oblique;
+        border-radius: 50%;
+        font-size: 17px;
+        background-color: rgb(243, 185, 195);
+        border-color: 124, 93, 104
+    }
+    h3{
+        text-align: center;
+        text-shadow:5px 5px 30px grey ;
+        font-size: x-large;
+    }
+    h4{
+        font-size: x-large;
+        text-align: center;
+    }
